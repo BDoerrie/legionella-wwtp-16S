@@ -1,0 +1,23 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*~
+
+# Output folders (optional - uncomment if you don't want to track generated figures)
+# results/
+# figures/
